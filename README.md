@@ -22,7 +22,7 @@ This project is made for learning web development and improving frontend design 
 ---
 
 ## 🚀 Live Demo
-http://127.0.0.1:5500/index.html
+https://goldeoger78-coder.github.io/my-anime-web-site-/
 
 ## 📸 Preview
 (Add your screenshot here)
